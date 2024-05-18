@@ -43,7 +43,7 @@
         >
       </div>
       <div class="flex items-center mt-1 space-x-1">
-        <a href="/home" class="text-gray-400 flex items-center">
+        <a href="/" class="text-gray-400 flex items-center">
           <span class="font-bold text-xs p-2">My Website</span>
           <Icon icon="akar-icons:link-out" class="font-bold w-3 h-3" />
         </a>

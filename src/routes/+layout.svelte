@@ -18,18 +18,18 @@
         <span class="ml-2 text-xs font-medium">Home</span>
       </a>
       <a
-        href="/explore"
+        href="/"
         class="text-gray-600 hover:text-black flex items-center"
       >
         <Icon icon="lets-icons:menu" class="h-4 w-4" />
         <span class="ml-2 text-xs font-medium">Explore</span>
       </a>
-      <a href="/learn" class="text-gray-600 hover:text-black flex items-center">
+      <a href="/" class="text-gray-600 hover:text-black flex items-center">
         <Icon icon="ion:book-outline" class="h-4 w-4" />
         <span class="ml-2 text-xs font-medium">Learn</span>
       </a>
       <a
-        href="/post"
+        href="/"
         class="px-4 py-2 rounded-md shadow hover:shadow-md flex items-center border border-b-4 border-black"
       >
         <Icon icon="basil:add-outline" class="h-4 w-4" />
